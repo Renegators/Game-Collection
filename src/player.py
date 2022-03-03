@@ -1,5 +1,5 @@
 class Player:
-    
-    def _init__(self):
+
+    def __init__(self):
         pass
 
